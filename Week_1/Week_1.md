@@ -30,3 +30,11 @@
 10. apt-get, yup : 패키지 매니저
 11.  sudo : 관리자 권한으로 실행
 12. top (or htop) : 컴퓨터 자원 사용량
+
+
+
+### 3. 리눅스 시스템의 기본 디렉터리
+
+https://blog.naver.com/PostView.nhn?blogId=itperson&logNo=220812561459&categoryNo=85&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1
+
+참조
